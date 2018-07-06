@@ -1,0 +1,1 @@
+Employee id=101, name=deepak, salary=70000, designation=manager
